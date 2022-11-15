@@ -1,0 +1,83 @@
+*{ margin: 0; padding: 0; box-sizing: border-box ;}
+
+h1{
+    padding-left: 45%;
+    color: black;
+    background-color: yellow;
+    /* padding-bottom: 5%; */
+}
+h2{
+    padding-top: 1%;
+    color: white;
+    background-color: blue; 
+}
+.container{
+    padding-top: 1%;
+}
+.in-container{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: flex;
+    flex-direction: row;
+    padding-left: 25%;
+    background-color: aqua;
+}
+table {
+    border: 1px solid ;
+}
+th, td{
+    border: 1px solid;
+    /* border-spacing: 20px; */
+}
+.view{
+    padding-left: 12%;
+    /* padding-top: 20%; */
+    border: violet;
+    /* border-collapse: collapse; */
+}
+.view-table{
+    /* padding-left: 42%; */
+    margin-left: 39%;
+    margin-top: 12%;
+    /* padding-top: 20%; */
+    /* border: 1px solid; */
+    border: 5px solid;
+    /* border-collapse: collapse; */
+    /* border-spacing: 2px; */
+    background-color: yellow;
+
+}
+.view-name{
+    padding-bottom: 1%;
+    background-color:aqua;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    border-bottom: 2px;
+    border-color: black;
+}
+.view-quantity{
+    margin-bottom: 4%;
+    background-color:aquamarine;
+    margin-right: 10%;
+}
+.view-image{
+    margin-top: 1%;
+    margin-right: 10%;
+    
+    /* background-color: aquamarine; */
+}
+#imgg{
+    background-color: bisque;
+    
+}
+.list-table{
+    border: 2px solid;
+    margin-left: 14%;
+    margin-top: 2%;
+}
+#list-header{
+    border: 2px solid;
+}
+.add{
+    margin-left: 2%;
+}
